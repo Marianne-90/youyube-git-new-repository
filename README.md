@@ -1,1 +1,1 @@
-# Repositorio Nuevo paracticando con _Git_ y _GitHub_
+# Repositorio Nuevo practicando con _Git_ y _GitHub_
